@@ -1,4 +1,0 @@
-<div class="wrapper">
-  <div id="calendari"></div>
-  <footer><a href="http://boudra.me/">boudra.me</a></footer>
-</div>
